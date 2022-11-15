@@ -108,6 +108,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+  <td align="center"><a href="http://github.com/itanand"><img src="https://avatars.githubusercontent.com/u/38817976?v=4" width="100px;" alt=""/><br /><sub><b>Anand Mohan</b></sub></a><br /><a href="http://github.com/itanand" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.ghostwheel.co.uk"><img src="https://avatars0.githubusercontent.com/u/652579?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Neil Duncan</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=neilduncan" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/cuzza0"><img src="https://avatars0.githubusercontent.com/u/8264053?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cuzza0</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=cuzza0" title="Documentation">📖</a></td>
     <td align="center"><a href="https://adrianmoisey.gitlab.com/"><img src="https://avatars3.githubusercontent.com/u/736329?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Adrian Moisey</b></sub></a><br /><a href="https://github.com/Tikam02/DevOps-Guide/commits?author=adrianmoisey" title="Documentation">📖</a></td>
