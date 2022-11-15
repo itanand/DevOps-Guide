@@ -26,7 +26,8 @@
 - Startup Management(initd)
 
 ### 3 Maintaining Servers
-- Networking Concepts
+- DNS, OSI MOdel
+- Networking Concepts [Email: SMTP, IMAPS, POP3S ] [ HTTP, HTTPS, SSH, SSL/TLS, FTP, PORT Forwarding ]
 - Security Concepts - OWASP-Top 10
 - Protocols
 - Reverse Proxy | Proxy | Forward Proxy
@@ -45,12 +46,12 @@
 
 ### 4 Terminal Commands
 
-- Text Manipulation
+- Text Manipulation Tools [ awk, sed, grep, sort, cut, uniq, cat, echo, fmt, tr, nl, wg, egrp, fgrep]
 - Process Monitoring
 - Networking Processes
 - Bash scripting
 - Performance Management
-- vim
+- vim / Nano/ Powershell/Emacs
 - AWS CLI
 - Kubernetes CLI
 - Docker CLI
@@ -61,13 +62,16 @@
 - CI/CD
   - Travis CI
   - Circle CI
-  - Gitlab
-  - Jenkins
+  - Gitlab CI
+  - -Github Actions
+  - Jenkins - Most Popular 
   - Azure 
+  - Bamoboo 
+  - Teamcity
 
 - Configuration Management
-    - Ansible
-    - Chef
+    - Ansible - Most Popular
+    - Chef - Important
     - Puppet
     - salt
 
@@ -76,7 +80,7 @@
   - LXC
 
 - Container Orchestration
-  - Kubernetes
+  - Kubernetes - Most Popular
   - Mesos
   - Docker SWARM
   - Nomad
@@ -86,8 +90,9 @@
   - Google Kuberenetes Engine (GKE)
 
 - Infrsatructure Provisioning
-  - Hashicorp Terraform
-  - AWS Cloudformation
+  - Hashicorp -  Terraform
+  - AWS CDK
+  - Cloudformation
   - Pulmi
   - Redhat Ansible
   - Azure Automation
@@ -98,12 +103,15 @@
 - Grafana
 - Nagios
 - Zabbix
+- Monit
+- Grafana
 
 ### 6 Application Monitoring
 
 - Jaegar 
 - New Relic 
 - Open Tracing
+- AppDynamics
 - Traceview
 
 ### 8 Cloud Providers
@@ -114,6 +122,7 @@
 - Digital Ocean
 - Linode
 - Vultr
+- Heroku
 
 ### 9 Log Management
 
