@@ -23,6 +23,7 @@
 - Memory Processes and Management
 - File Systems
 - Scheduling
+- Startup Management(initd)
 
 ### 3 Maintaining Servers
 - Networking Concepts
